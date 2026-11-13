@@ -76,10 +76,6 @@ W2-PM5 IP Configuration <img width="1359" height="767" alt="pm5 ss2" src="https:
 W2-PM5 Zenmap Scan Result <img width="1299" height="531" alt="z ss" src="https://github.com/user-attachments/assets/e700f8c9-a2f4-4267-a187-bf50bd83f3da" />
 ---
 
-### 6. W2-PM-FINAL: Penetration Testing Report
-Compiled a structured penetration testing report documenting the scope, Letter of Authorization (LOA), methodology, tool outputs, and security observations across all completed modules.
-
----
 
 ## 🛠️ Tools & Environment
 * **OS:** Windows 10 & Kali Linux (VirtualBox)
